@@ -10,3 +10,12 @@ Complete Exercise 1 and Hello World program.
 Write the Output of Exercise 1 below
 
 Answers for Exercise 1
+
+1.) 6
+2.) 300
+3.) 5
+4.) 9
+5.) 8
+6.)35
+7.) <class 'int'>
+8.) 59.0
